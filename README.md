@@ -2,14 +2,14 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+GeovanaBrenda;I'm+17+years+old;I'm+from+Brazil;I+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Witória;I'm+17+years+old;I'm+from+Brazil;I+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 
 
 <div align="center"> 
-<a href="https://instagram.com/geovanalfs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:cmp.1a.geeh.brends31@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/witoria.souza_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:cmp.1a.witoriadayanna544@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
 
 
@@ -18,10 +18,10 @@
 <!--ícones e imagem das estatísticas-->
 <div>
   <h3>My Github Stats</h3>
-  <a href="https://github.com/geovanabrenda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovanabrenda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/witoriasouza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=witoriasouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanabrenda&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=witoriasouza&layout=compact&langs_count=7&theme=dracula"/>
     
 <hr>
 </div>
